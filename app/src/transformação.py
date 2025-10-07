@@ -5,4 +5,8 @@ print(frase.replace('essencial', 'basico'))
 print(frase.upper())
 #transforma as letras em maiusculas
 print(frase.lower())
-#transforma as letras em maiusculas
+#transforma as letras em minusculas 
+print(frase.capitalize())
+#deixa apenas o primeiro caractere da string em maiuscula
+print(frase.title())
+#analisa a quantidade de palavras e transforma a primeira letra de cada palavra em maiuscula
